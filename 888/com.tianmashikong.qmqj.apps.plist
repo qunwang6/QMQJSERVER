@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD</key>
+	<data>
+	AA==
+	</data>
+	<key>IsFullPackUpdatedApp</key>
+	<string>20150730</string>
+	<key>IsFullPackUpdatedRes</key>
+	<string>20150730</string>
+	<key>IsMiniPackUpdated</key>
+	<string>false</string>
+	<key>LastServerInfoID</key>
+	<integer>888</integer>
+	<key>MstSettings_185221346</key>
+	<string>True|False|False|True|False|False|True|True|True|True|False|True|False|False|False|True</string>
+	<key>OpenUDID</key>
+	<dict>
+		<key>OpenUDID</key>
+		<string>956db49d6425230baa2738425ade6b6cbd734c57</string>
+		<key>OpenUDID_appUID</key>
+		<string>90D2A39F-4329-4CFF-9EC5-DC8841B1A4C0</string>
+		<key>OpenUDID_createdTS</key>
+		<date>2015-09-07T10:05:28Z</date>
+		<key>OpenUDID_slot</key>
+		<string>org.OpenUDID.slot.3</string>
+	</dict>
+	<key>StatsDone</key>
+	<string>yes</string>
+	<key>com.tm.qmqj.account.last</key>
+	<data>
+	bG92ZWlzZGVhZDE=
+	</data>
+	<key>ktm_first_lanuch</key>
+	<data>
+	AQ==
+	</data>
+	<key>lastPostDate</key>
+	<string>2015-09-07</string>
+	<key>lastPostInterval</key>
+	<real>1441622060.8558841</real>
+	<key>umFailedRequests</key>
+	<integer>2</integer>
+	<key>umLastRequestSpentMS</key>
+	<integer>224</integer>
+	<key>umSuccessfulRequests</key>
+	<integer>15</integer>
+	<key>xy_firstlauch</key>
+	<data>
+	AQ==
+	</data>
+</dict>
+</plist>
